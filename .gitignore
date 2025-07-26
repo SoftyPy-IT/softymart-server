@@ -10,7 +10,6 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Environment files
-.env
 .env.*          # যদি একাধিক environment থাকে যেমন .env.dev, .env.prod
 
 # Build outputs
@@ -39,3 +38,4 @@ Thumbs.db
 # Cache
 .cache
 .tmp
+config.bat
